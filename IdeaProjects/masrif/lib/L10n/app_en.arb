@@ -1,0 +1,7 @@
+
+{
+  "login_text": "Hello World!",
+  "@login_text": {
+    "description": "The conventional newborn programmer greeting"
+  }
+}
